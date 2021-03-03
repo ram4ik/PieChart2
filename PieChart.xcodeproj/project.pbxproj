@@ -11,6 +11,8 @@
 		9586700925EFC61E0073F137 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9586700825EFC61E0073F137 /* ContentView.swift */; };
 		9586700B25EFC6210073F137 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9586700A25EFC6210073F137 /* Assets.xcassets */; };
 		9586700E25EFC6210073F137 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9586700D25EFC6210073F137 /* Preview Assets.xcassets */; };
+		9586701725EFC63F0073F137 /* PiceOfPie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9586701625EFC63F0073F137 /* PiceOfPie.swift */; };
+		9586701A25EFC68D0073F137 /* PieceOfPieContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9586701925EFC68D0073F137 /* PieceOfPieContainer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		9586700A25EFC6210073F137 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9586700D25EFC6210073F137 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9586700F25EFC6210073F137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9586701625EFC63F0073F137 /* PiceOfPie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiceOfPie.swift; sourceTree = "<group>"; };
+		9586701925EFC68D0073F137 /* PieceOfPieContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieceOfPieContainer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				9586700A25EFC6210073F137 /* Assets.xcassets */,
 				9586700F25EFC6210073F137 /* Info.plist */,
 				9586700C25EFC6210073F137 /* Preview Content */,
+				9586701625EFC63F0073F137 /* PiceOfPie.swift */,
+				9586701925EFC68D0073F137 /* PieceOfPieContainer.swift */,
 			);
 			path = PieChart;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9586700925EFC61E0073F137 /* ContentView.swift in Sources */,
+				9586701725EFC63F0073F137 /* PiceOfPie.swift in Sources */,
+				9586701A25EFC68D0073F137 /* PieceOfPieContainer.swift in Sources */,
 				9586700725EFC61E0073F137 /* PieChartApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
